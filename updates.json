@@ -1,5 +1,5 @@
 {
-    "version": "0.9.2",
-    "changelog": "Fixes non-target kill registering at start of Hokkaido Snow Festival. Adds Landslide - Daytime to Sapienza Showdown (Use website to add this variant)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.2/Freelancer.Variations.0.9.2.zip"
+    "version": "0.9.3",
+    "changelog": "Fixes 2 broken Bangkok Showdown Variants (The Source, Midday ETs). Update SDK mod from Nexus or PiePie variant picker website for fixed variant to work",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.3/Freelancer.Variations.0.9.3.zip"
 }
