@@ -1,5 +1,5 @@
 {
-    "version": "0.9.3",
-    "changelog": "Fixes 2 broken Bangkok Showdown Variants (The Source, Midday ETs). Update SDK mod from Nexus or PiePie variant picker website for fixed variant to work",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.3/Freelancer.Variations.0.9.3.zip"
+    "version": "0.9.4",
+    "changelog": "Adds The Undying - Sunset. Berlin Midday: - Fixes broken supplier, evacuating crowd and missing spawn. Landslide Showdown - Fixes badly placed food and drink acts, and lookout acts ",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.4/Freelancer.Variations.0.9.4.zip"
 }
