@@ -1,5 +1,5 @@
 {
-    "version": "0.9.6",
-    "changelog": "Deploy Error hotfix",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.6/Freelancer.Variations.0.9.6.zip"
+    "version": "0.9.7",
+    "changelog": "Fixes The Source and Night Sapienza being stuck forever on loading screen (Sdk JSON update required). Fixes Berlin Easter supplier being 'Busy' permanently. Makes Bangkok Midday ETs less brutal",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.7/Freelancer.Variations.0.9.7.zip"
 }
