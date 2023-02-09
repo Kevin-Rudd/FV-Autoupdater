@@ -1,5 +1,5 @@
 {
-    "version": "0.9.7",
-    "changelog": "Fixes The Source and Night Sapienza being stuck forever on loading screen (Sdk JSON update required). Fixes Berlin Easter supplier being 'Busy' permanently. Makes Bangkok Midday ETs less brutal",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.7/Freelancer.Variations.0.9.7.zip"
+    "version": "0.9.8",
+    "changelog": "Fixes bad lighting, bad PZ Spawn, bad Chongqing Supplier, bad Paris exit. NO SDK or JSON update required",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.8/Freelancer.Variations.0.9.8.zip"
 }
