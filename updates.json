@@ -1,5 +1,5 @@
 {
-    "version": "0.9.9",
-    "changelog": "Re-does AHBOS Takedown targets, makes Chongqing Meltdown targets easier to deal with, fixes Landslide default spawn, fixes Patient Zero suspect acts, various The Source fixes",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.9/Freelancer.Variations.0.9.9.zip"
+    "version": "0.9.10",
+    "changelog": "Fixes deploy error in latest versions of SMF. Removes two clones from Midday Mendoza. Fixes bad sky in World of Tomorrow - Night",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.10/Freelancer.Variations.0.9.10.zip"
 }
