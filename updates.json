@@ -1,5 +1,5 @@
 {
     "version": "1.0.0",
-    "changelog": "- New Dubai + Marrakesh variants added! Grab SDK JSON update from Nexus/variant picker website! - Fixes various safe/clue issues - Fixes various Hokkaido Snow Festival issues - Experimental Landslide exit fix (Needs testing) - Other small improvements",
+    "changelog": "- New Dubai + Marrakesh variants added! Grab SDK JSON update from Nexus/variant picker website! \n- Fixes various safe/clue issues \n- Fixes various Hokkaido Snow Festival issues \n- Experimental Landslide exit fix (Needs testing) \n- Other small improvements",
     "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.0.0/Freelancer.Variations.1.0.0.zip"
 }
