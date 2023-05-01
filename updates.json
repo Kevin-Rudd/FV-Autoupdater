@@ -1,5 +1,5 @@
 {
-    "version": "0.9.10",
-    "changelog": "Fixes deploy error in latest versions of SMF. Removes two clones from Midday Mendoza. Fixes bad sky in World of Tomorrow - Night",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/0.9.10/Freelancer.Variations.0.9.10.zip"
+    "version": "1.0.0",
+    "changelog": "- New Dubai + Marrakesh variants added! Grab SDK JSON update from Nexus/variant picker website! - Fixes various safe/clue issues - Fixes various Hokkaido Snow Festival issues - Experimental Landslide exit fix (Needs testing) - Other small improvements",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.0.0/Freelancer.Variations.1.0.0.zip"
 }
