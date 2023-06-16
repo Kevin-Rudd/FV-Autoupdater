@@ -1,5 +1,18 @@
 {
-    "version": "1.0.0",
-    "changelog": "- New Dubai + Marrakesh variants added! Grab SDK JSON update from Nexus/variant picker website! \n- Fixes various safe/clue issues \n- Fixes various Hokkaido Snow Festival issues \n- Experimental Landslide exit fix (Needs testing) \n- Other small improvements",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.0.0/Freelancer.Variations.1.0.0.zip"
+    "version": "1.1.0",
+    "changelog": "New Mumbai + Marrakesh variants added! Grab SDK JSON update from Nexus/variant picker website! \n- Chongqing: Noodle Massacre - Sniper will now miss a couple times
+\n- Chongqing: Hard mode guard improvements
+\n- Haven: Nighttime variant improvements/changes
+\n- Hokkaido: PZ - Fixed Safe being on a desk and clue being on the floor
+\n- Marrakesh: Adds The Brothers + Entertainer + Cheveyo Calibration variant (Midday)
+\n- Marrakesh: Reverts AHBOS showdown to its default soundtrack, instead of Dubai's
+\n- Marrakesh: Sunset - Haeverfoek no longer waits forever for Strandberg, who is dead
+\n- Miami (Night): Takedown now has Silver Tongue NPCs as potential targets
+\n- Mumbai: Adds Illusions of Grandeur (Non-showdown) variant
+\n- Mumbai: Hills is now correctly in civilian mode(Except vanilla variant)
+\n- Mumbai (Night):  More lighting added, some daytime ambient sounds replaced with night ones
+\n- Paris: Midday lighting and wind improvements 
+\n- Sapienza: Improves box reflection cache of Daytime Landslide
+\n- Sapienza: Night - Adds Methlab (cut content) and makes many NPC changes (including cut NPC scripts)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.1.0/Freelancer.Variations.1.1.0.zip"
 }
