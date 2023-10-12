@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
-    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR SGAIL WILL LIKELY CRASH \n- NEW VARIANT: Hantu Port (Requires External Mod) \n- Hokkaido Snow Festival: Fixes perma-busy supplier \n- Adds Asian male courier lines (Noodle implementation TBD)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.2.0/Freelancer.Variations.1.2.0.zip"
+    "version": "1.3.0",
+    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR COLOMBIA WILL CRASH \n- NEW VARIANT: Santa Fortuna: The Revolutionary (Night) + construction back at work + story targets dead + statue unveiled \n- Santa Fortuna: Special Ass. - Adds ~8 more NPCs to target pool, combined with band playing variant, removes ~8 stationary band crowd NPCs from being targets, takes place after statue has been unveiled\n- Chongqing: Noodle Massacre - Fix MILD target issues (Fixed last update but still unconfirmed) \n- Paris: ETs - Adds more MILD targets, including ETs themselves (Dunno why I hesitated to make them targets in first place) \n- Sgail: Hantu Port - Fix MILD target issues? (Untested) \n- Sgail: Midday - Fix showdown version not working properly \n- Various season 1 ET variants: Minor tweaks\n- Mumbai: Illusions of Grandeur - fix Safes/Suppliers/Custom Targets/Couriers spawning in blocked off Rangan Tower (UNTESTED)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.3.0/Freelancer.Variations.1.3.0.zip"
 }
