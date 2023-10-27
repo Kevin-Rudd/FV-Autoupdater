@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
-    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR WHITTLETON WILL CRASH \n- NEW VARIANTS in Whittleton Creek\n- Marrakesh: Sunset ETs - Adds Wrath (Modified Mumbai) music until I can figure out how to bring regular Mumbai back \n- Paris: Holiday Hoarders - Removes broken chimney exits and uses Midday's NPC changes",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.4.0/Freelancer.Variations.1.4.0.zip"
+    "version": "1.4.1",
+    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR BERLIN WILL CRASH \n- Berlin: Sunset - Adds The Drop \n- New York: Adds Midday Stock Crash variant \n- Marrakesh: Sunset ETs - Restores Mumbai music \n- Miami: Night - Removes commentator \n- Whittleton Creek: Night - Removes floating muffin",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.4.1/Freelancer.Variations.1.4.1.zip"
 }
