@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
-    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR BERLIN WILL CRASH \n- Berlin: Sunset - Adds The Drop \n- New York: Adds Midday Stock Crash variant \n- Marrakesh: Sunset ETs - Restores Mumbai music \n- Miami: Night - Removes commentator \n- Whittleton Creek: Night - Removes floating muffin",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.4.1/Freelancer.Variations.1.4.1.zip"
+    "version": "1.5.0",
+    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR HAVEN WILL CRASH \n- Haven Island: Adds Hawke's Bay - The Politician \n- Whittleton Creek: Night - Removes Bitter Pill title and intel stuff, correctly blocks off secret tunnel in showdown \n- Hantu Port: Enables (broken) map for rough target, supplier, etc guide \n- Chongqing: Noodle Massacre - some couriers now have Asian voices",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.5.0/Freelancer.Variations.1.5.0.zip"
 }
