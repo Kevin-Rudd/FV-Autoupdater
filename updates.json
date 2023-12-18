@@ -1,5 +1,5 @@
 {
-    "version": "1.5.0",
-    "changelog": "YOU MUST UPDATE JSON FROM WEBSITE OR NEXUS OR HAVEN WILL CRASH \n- Haven Island: Adds Hawke's Bay - The Politician \n- Whittleton Creek: Night - Removes Bitter Pill title and intel stuff, correctly blocks off secret tunnel in showdown \n- Hantu Port: Enables (broken) map for rough target, supplier, etc guide \n- Chongqing: Noodle Massacre - some couriers now have Asian voices",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.5.0/Freelancer.Variations.1.5.0.zip"
+    "version": "1.6.0",
+    "changelog": "YOU MUST UPDATE SDK MOD FROM NEXUS \n- Adds Hawke's Bay map slot to Freelancer \n- Hawke's Bay: Adds 3 more variants of The Politician, Adds 1 variant of Nightcall \n- Hantu Port: Adds duplicate variants to Hawke's Bay map slot \n- AHBOS: Truck exit now works in showdown\n- Berlin: Midday - The Drop music now plays at club",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.6.0/Freelancer.Variations.1.6.0.zip"
 }
