@@ -1,5 +1,5 @@
 {
-    "version": "1.6.1",
-    "changelog": "- Fixes Hawke's Bay not resetting at syndicate end \n- Adds voice variety to guards on The Politician",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.6.1/Freelancer.Variations.1.6.1.zip"
+    "version": "1.6.2",
+    "changelog": "- HOPEFULLY fixes Landslide (and other Sapienza bonus mission) exit bug \n- Fixes game crashing when The Politician - Midday is loaded \n- Integrates Peacock Plugin as an SMF option rather than separate download. You still need to grab a JSON from either website or Nexus SDK download \n- Gives Peacock Plugin support for Hawke's Bay map slot (Option must be selected in SMF). **Currently cannot select variants**, 4x Hawke's Bay variants on by default",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.6.2/Freelancer.Variations.1.6.2.zip"
 }
