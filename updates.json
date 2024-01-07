@@ -1,5 +1,5 @@
 {
-    "version": "1.6.3",
-    "changelog": "Fixes Night Mumbai making the game pitch black\n- Fixes Peacock Plugin not working on non-HB maps\n- Hokkaido Snow Festival: No longer displays that mission title on restaurant spawn\n- HB Midday: Restores changes to flashlights and music (Actually done in secret re-upload of last update)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.6.3/Freelancer.Variations.1.6.3.zip"
+    "version": "1.6.4",
+    "changelog": "- Hantu Port: Fixes exits\n- Berlin: Midday - 'Hungover' NPCs now respond like regular NPCs, 8 NPCs added to Takedown target list",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.6.4/Freelancer.Variations.1.6.4.zip"
 }
