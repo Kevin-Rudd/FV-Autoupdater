@@ -1,5 +1,5 @@
 {
-    "version": "1.7.0",
-    "changelog": "- ADDS ROMANIAN PASSENGER TRAIN VARIANTS (On New York by default, can be changed to Hawke's Bay or Colorado)\n- Various bugfixes",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.0/Freelancer.Variations.1.7.0.zip"
+    "version": "1.7.1",
+    "changelog": "Romania mini-update \n- Added 16 vanilla NPCs as Territory Takedown targets\n- Removed floating chains near office\n- Moved bad stash in office\n- Fixed snowmobile bugging out\n- Possible fix for NPCs teleporting onto train roof",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.1/Freelancer.Variations.1.7.1.zip"
 }
