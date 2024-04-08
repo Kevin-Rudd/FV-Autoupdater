@@ -1,5 +1,5 @@
 {
-    "version": "1.7.2",
-    "changelog": "Peacock Plugin now actually works",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.2/Freelancer.Variations.1.7.2.zip"
+    "version": "1.7.3",
+    "changelog": "- Romania: Can now throw bodies off the railings near Constant's carriage \n- Romania: NPCs with duplicate IDs now fixed \n- Romania: Supplier rotated to face you \n- Colorado (The Vector): Mandates hard brick in Territory Takedown, adds 7x hard NPCs as targets and 24x The Vector NPCs as targets \n- Marrakesh (The Brothers): No longer crashes! \n- Sapienza (Methlab): New male tourists no longer have female voices",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.3/Freelancer.Variations.1.7.3.zip"
 }
