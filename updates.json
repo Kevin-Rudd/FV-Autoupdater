@@ -1,5 +1,5 @@
 {
-    "version": "1.7.1",
-    "changelog": "Romania mini-update \n- Added 16 vanilla NPCs as Territory Takedown targets\n- Removed floating chains near office\n- Moved bad stash in office\n- Fixed snowmobile bugging out\n- Possible fix for NPCs teleporting onto train roof",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.1/Freelancer.Variations.1.7.1.zip"
+    "version": "1.7.2",
+    "changelog": "Peacock Plugin now actually works",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.2/Freelancer.Variations.1.7.2.zip"
 }
