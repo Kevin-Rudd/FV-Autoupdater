@@ -1,5 +1,5 @@
 {
-    "version": "1.7.4",
-    "changelog": "- Romania: Mechanic NPC is no longer also selected when you get a kitchen NPC as a target, Courier MAYBE finally faces the right way? \n- Robert Knox Guard and Crest Guard no longer search map for those men, instead they will go be sad somewhere \n- Dartmoor: Adds Wrath boxreflectioncache to night variants, to hopefully fix indoors of those maps being bright red if they're loaded after you've been playing other maps \n- Sapienza: The Icon - Poorly placed buggy NPCs no longer spawn on Alerted mode, sports car exit now works properly",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.4/Freelancer.Variations.1.7.4.zip"
+    "version": "1.7.5",
+    "changelog": "Minor tweaks to existing variants. No SDK/JSON update required.\n - Sapienza Sunset ETs: The Guru’s script works properly, adds other The Guru NPCs as targets, adds The Congressman\n- Berlin Egg Hunt: Female staff now have correct outfit \n- Chongqing Noodle Massacre - Fixes two NPCs being selected as target when Trystan Wilkinson is picked \n- Mendoza Midday ETs: Adds (7) sniper escalation NPCs, 4 are possible targets, swaps Shrine entrance for Pier entrance, removes crowd",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.5/Freelancer.Variations.1.7.5.zip"
 }
