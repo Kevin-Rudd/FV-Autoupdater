@@ -1,5 +1,5 @@
 {
-    "version": "1.7.6",
-    "changelog": "Fixes crashes caused by 1.7.5. \n1.7.5 changelog: Minor tweaks to existing variants. No SDK/JSON update required.\n - Sapienza Sunset ETs: The Guru’s script works properly, adds other The Guru NPCs as targets, adds The Congressman\n- Berlin Egg Hunt: Female staff now have correct outfit \n- Chongqing Noodle Massacre - Fixes two NPCs being selected as target when Trystan Wilkinson is picked \n- Mendoza Midday ETs: Adds (7) sniper escalation NPCs, 4 are possible targets, swaps Shrine entrance for Pier entrance, removes crowd",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.6/Freelancer.Variations.1.7.6.zip"
+    "version": "1.7.7",
+    "changelog": "No SDK/JSON update required.\n\n- Chongqing Noodle Massacre: Fixes crash to desktop when this variant is loaded\n- Passenger Train: NPCs can now move between the office section and rest of train. NPCs added to Constant's Office.\n- Hawke's Bay: Stash moved so you no longer get stuck in it when you vault over a certain wall\n- Peacock: Plugin now gives more helpful message if the JSON file is not found",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.7/Freelancer.Variations.1.7.7.zip"
 }
