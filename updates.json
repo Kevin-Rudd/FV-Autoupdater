@@ -1,5 +1,5 @@
 {
-    "version": "1.7.7",
-    "changelog": "No SDK/JSON update required.\n\n- Chongqing Noodle Massacre: Fixes crash to desktop when this variant is loaded\n- Passenger Train: NPCs can now move between the office section and rest of train. NPCs added to Constant's Office.\n- Hawke's Bay: Stash moved so you no longer get stuck in it when you vault over a certain wall\n- Peacock: Plugin now gives more helpful message if the JSON file is not found",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.7/Freelancer.Variations.1.7.7.zip"
+    "version": "1.7.8",
+    "changelog": "No SDK/JSON update required.\n\n- Romania: Too many additions and changes to list, see Nexus or Hitmanforum\n- Whittleton Night: Moves supplier from Vholes' security basement\n- Landslide Day: Dott. Docciaborsa no longer waits ages for Abiatti (who is not in this variant)\n- Hantu: Integrate new exit, make new NPC a MILD target\n- Mendoza Midday: Removes The Iconoclast body container that clips with a bench from The Heartbreaker",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.8/Freelancer.Variations.1.7.8.zip"
 }
