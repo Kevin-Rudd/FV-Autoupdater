@@ -1,5 +1,5 @@
 {
-    "version": "1.7.10",
-    "changelog": "No SDK/JSON update required. Hotfix for Passenger Train Newspaper starting location\n1.7.8\n- Romania: Too many additions and changes to list, see Nexus or Hitmanforum\n- Whittleton Night: Moves supplier from Vholes' security basement\n- Landslide Day: Dott. Docciaborsa no longer waits ages for Abiatti (who is not in this variant)\n- Hantu: Integrate new exit, make new NPC a MILD target\n- Mendoza Midday: Removes The Iconoclast body container that clips with a bench from The Heartbreaker",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.10/Freelancer.Variations.1.7.10.zip"
+    "version": "1.7.11",
+    "changelog": "JSON update required to play new variants.\n- New Variant: Isle of Sgail - The Disruptor (Sunset)\n- Isle of Sgail - ETs (Daytime) ToD changes, ocean horizon fix, crowd removed, new target list now actually works for the first time in this mod, Washington bodyguards don't search map for their clients, fixes presumed issue with one suspect not evacuating during showdown\n- Romania: Rotated stash in Constant's carriage to right direction\n- Berlin Egg Hunt: No longer get frisked at front gate, unlockable Easter suit now counts as an Easter outfit in the map",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.11/Freelancer.Variations.1.7.11.zip"
 }
