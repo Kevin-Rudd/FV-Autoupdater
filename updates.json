@@ -1,5 +1,5 @@
 {
-    "version": "1.7.11",
-    "changelog": "JSON update required to play new variants.\n- New Variant: Isle of Sgail - The Disruptor (Sunset)\n- Isle of Sgail - ETs (Daytime) ToD changes, ocean horizon fix, crowd removed, new target list now actually works for the first time in this mod, Washington bodyguards don't search map for their clients, fixes presumed issue with one suspect not evacuating during showdown\n- Romania: Rotated stash in Constant's carriage to right direction\n- Berlin Egg Hunt: No longer get frisked at front gate, unlockable Easter suit now counts as an Easter outfit in the map",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.11/Freelancer.Variations.1.7.11.zip"
+    "version": "1.7.12",
+    "changelog": "No JSON update required.\n- Berlin Egg Hunt: Adds 9x Deluxe NPCs to forest and fuel station, Adds dumpsters and CCTV cameras to gas station\n- Romania: Disables 2 possible targets that have small chance to cause crash\n- Sgail: Adds voice variety to guests in all variants\n- Disruptor: Disruptor no longer freezes when panicked, Removes Jason Portman as target due to being a static crowd NPC in this variant\n- Hawke's Bay: Unlocks front door during midday and sunset variants\n- Hantu Port: Fixes Spider Lilly's Car exit\n- Haven Night: Bradley's guard should no longer search the map for him",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.12/Freelancer.Variations.1.7.12.zip"
 }
