@@ -1,5 +1,5 @@
 {
-    "version": "1.7.12",
-    "changelog": "No JSON update required.\n- Berlin Egg Hunt: Adds 9x Deluxe NPCs to forest and fuel station, Adds dumpsters and CCTV cameras to gas station\n- Romania: Disables 2 possible targets that have small chance to cause crash\n- Sgail: Adds voice variety to guests in all variants\n- Disruptor: Disruptor no longer freezes when panicked, Removes Jason Portman as target due to being a static crowd NPC in this variant\n- Hawke's Bay: Unlocks front door during midday and sunset variants\n- Hantu Port: Fixes Spider Lilly's Car exit\n- Haven Night: Bradley's guard should no longer search the map for him",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.12/Freelancer.Variations.1.7.12.zip"
+    "version": "1.7.13",
+    "changelog": "No JSON update required.\n- Hawke's Bay: Suspects no longer spawn outside of map in showdown\n- Passenger Train: Update for new mod release, enables 4 more targets\n- Mendoza Day: Yates bodyguards gone, 2 stationary targets removed, 6 targets from Heartbreaker added\n- Santa Fortuna Night: Moves Supplier to non-trespassing area\n- The Disruptor: Removes Bell Ringer as target, adds 3 targets to make up for it",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.13/Freelancer.Variations.1.7.13.zip"
 }
