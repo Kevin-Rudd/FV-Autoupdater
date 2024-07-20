@@ -1,5 +1,5 @@
 {
-    "version": "1.7.13",
-    "changelog": "No JSON update required.\n- Hawke's Bay: Suspects no longer spawn outside of map in showdown\n- Passenger Train: Update for new mod release, enables 4 more targets\n- Mendoza Day: Yates bodyguards gone, 2 stationary targets removed, 6 targets from Heartbreaker added\n- Santa Fortuna Night: Moves Supplier to non-trespassing area\n- The Disruptor: Removes Bell Ringer as target, adds 3 targets to make up for it",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.13/Freelancer.Variations.1.7.13.zip"
+    "version": "1.7.14",
+    "changelog": "No JSON update required.\n- Bangkok ETs: Removes doubled up guard in restaurant, adds 6x possible targets in his place, Warlord Chef’s route no longer broken (IO bug)\n- Noodle: Updates bundled version of mod to fix one cop having a blue shirt\n- Whittleton Sunset: Make Hanson house occupants enforce trespass, removes undercover garbage men from backyard\n- Haven Night: Removes long viewcones (unconfirmed if works)\n- Romania: Remove ability to hide targets in mission mode containers\n- SF Night: Fixes troublesome supplier (Enjoy, CJ!)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.14/Freelancer.Variations.1.7.14.zip"
 }
