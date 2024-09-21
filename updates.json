@@ -1,5 +1,5 @@
 {
     "version": "1.7.17",
     "changelog": "No JSON update required.\n- Mumbai:  Special Ass - Removes 2 targets who spawn in out of bounds Rangan Tower\n- Berlin: The Drop - Removes box that blocks safe\n- Passenger Train: NPCs should no longer be able to walk on air at back of train, textureless courier should now be fixed(?)\n- Whittleton Creek: Night - Can no longer buggily take Mr Wilson's clothes\n- Chongqing: Cloudy Day Lockdown - Removes last lockdown worker from target lists, adds ~6x existing NPCs as targets",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.16/Freelancer.Variations.1.7.17.zip"
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.17/Freelancer.Variations.1.7.17.zip"
 }
