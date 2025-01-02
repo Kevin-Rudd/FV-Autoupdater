@@ -1,5 +1,5 @@
 {
-    "version": "1.7.18",
-    "changelog": "No JSON update required.\n-Conflicting Stashes removed in: The Icon bathroom, The Author church basement, Patient Zero morgue\n-Mumbai: Night – Lighting improved\n-Chongqing: Lockdown - Removes Freelancer-specific NPCs who spawn in facility, Moves Lockdown area supplier to a city shopfront\n-Chongqing: Noodle Massacre – Rooftop crime scene sentries should now allow police past... but one is still an enforcer\n-Chongqing: Alerted mode: Undercover man at back of restaurant no longer enforces 47\n-Paris: Midday – Crowds have not yet arrived for the fashion show. Superenforcer and many NPCs removed. Some more NPCs have different script to default\n-Minnow's Hawke's Bay outfits fix only deploys if you do not have Community Patch mod",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.7.18/Freelancer.Variations.1.7.18.zip"
+    "version": "1.8.0",
+    "changelog": "NEW VERSION OF SDK IS OUT, GRAB IT FROM REQUIRED FILES ON FV DOWNLOADS PAGE\nJSON UPDATE REQUIRED, GRAB FROM NEXUS FILES PAGE OR VARIANT PICKER WEBSITE \n- Adds Cuba variants to Ambrose Island by default, with option for Haven Island \n- Integrates The Splitter into The Rage (Daytime) variant\nMany smaller changes, see Nexus changelog or Hitmanforum post for full list.",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.8.0/Freelancer.Variations.1.8.0.zip"
 }
