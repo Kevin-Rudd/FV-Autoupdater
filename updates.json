@@ -1,5 +1,5 @@
 {
     "version": "1.8.1",
-    "changelog": "1.8.1 Hotfix\n- Cuba spawns now work properly in Haven Island slot\n- Chongqing and Cuba assassins now have localised accents to blend in better \n\n1.8 - Splitting Cuba\nNEW VERSION OF SDK IS OUT, GRAB IT FROM REQUIRED FILES ON FV DOWNLOADS PAGE\nJSON UPDATE REQUIRED, GRAB FROM NEXUS FILES PAGE OR VARIANT PICKER WEBSITE \n- Adds Cuba variants to Ambrose Island by default, with option for Haven Island \n- Integrates The Splitter into The Rage (Daytime) variant\nMany smaller changes, see Nexus changelog or Hitmanforum post for full list.",
+    "changelog": "1.8.1 Hotfix\n- Cuba spawns now work properly in Haven Island slot\n- Chongqing and Cuba assassins now have localised accents to blend in better \n\n1.8 - Splitting Cuba \nNEW VERSION OF SDK IS OUT, GRAB IT FROM REQUIRED FILES ON FV DOWNLOADS PAGE\nJSON UPDATE REQUIRED, GRAB FROM NEXUS FILES PAGE OR VARIANT PICKER WEBSITE \n- Adds Cuba variants to Ambrose Island by default, with option for Haven Island \n- Integrates The Splitter into The Rage (Daytime) variant\nMany smaller changes, see Nexus changelog or Hitmanforum post for full list.",
     "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.8.1/Freelancer.Variations.1.8.1.zip"
 }
