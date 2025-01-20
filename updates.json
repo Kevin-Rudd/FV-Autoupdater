@@ -1,5 +1,5 @@
 {
-    "version": "1.8.2",
-    "changelog": "- Restructures mod to remove all(?) SMF warnings, reduce file size, slightly increase deploy time probably, not deploy files twice if you have Random ToDs installed, ToD files have better compatibility with Lighting Ultimate\n- Cuba: Safe clue in radio room no longer spawns inside CCTV recorder\n- Romania: Removes story exit, visible floating far in the sky to eagle-eyed players",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.8.2/Freelancer.Variations.1.8.2.zip"
+    "version": "1.8.3",
+    "changelog": "JSON update required for Mumbai Day \n- Whittleton Creek: Fixes crashes if Random ToDs is deployed\n- Cuba: Fixes one spawn not working properly and spawning you in middle of hangar \n- Romania: Include Sieni’s Signature Suit fix by default to prevent crashes when you have a suit mod \n- The FV and Random ToDs files for Mumbai and Haven Island will no longer conflict (deleting targets in story mode). UPDATE JSON TO GRAB NEW VERSION OF MUMBAI DAY. \n- Mumbai: Illusions of Grandeur - Fixes no safe spawning when safe01 (Rangan Tower) is meant to be picked\n- Mumbai: Day – Includes changes from other variants which replace enforcer street thugs with ‘security’\n- There are less/no double deployment of files if you have FV and Random ToDs (slightly reduced deploy time)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.8.3/Freelancer.Variations.1.8.3.zip"
 }
