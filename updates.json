@@ -1,5 +1,5 @@
 {
-    "version": "1.8.3",
-    "changelog": "JSON update required for Mumbai Day \n- Whittleton Creek: Fixes crashes if Random ToDs is deployed\n- Cuba: Fixes one spawn not working properly and spawning you in middle of hangar \n- Romania: Include Sieni’s Signature Suit fix by default to prevent crashes when you have a suit mod \n- The FV and Random ToDs files for Mumbai and Haven Island will no longer conflict (deleting targets in story mode). UPDATE JSON TO GRAB NEW VERSION OF MUMBAI DAY. \n- Mumbai: Illusions of Grandeur - Fixes no safe spawning when safe01 (Rangan Tower) is meant to be picked\n- Mumbai: Day – Includes changes from other variants which replace enforcer street thugs with ‘security’\n- There are less/no double deployment of files if you have FV and Random ToDs (slightly reduced deploy time)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.8.3/Freelancer.Variations.1.8.3.zip"
+    "version": "1.9.0",
+    "changelog": "JSON update required for Miami Yacht \n- Adds Real Yacht variants to Miami's slot by default\n- Mod should after Unofficial Community Patches to prevent deploy issues",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.0/Freelancer.Variations.1.9.0.zip"
 }
