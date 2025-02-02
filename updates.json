@@ -1,5 +1,5 @@
 {
-    "version": "1.9.0",
-    "changelog": "JSON update required for Miami Yacht \n- Adds Real Yacht variants to Miami's slot by default\n- Mod should after Unofficial Community Patches to prevent deploy issues",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.0/Freelancer.Variations.1.9.0.zip"
+    "version": "1.9.1",
+    "changelog": "- MIAMI: Fixes Sunset and Night Miami showdowns not working\n- CUBA: SHOULD fix spawns not working in Haven Island version of the map\n- CUBA: SHOULD no longer say Ambrose Island on spawn in text. Unable to verify before release.",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.1/Freelancer.Variations.1.9.1.zip"
 }
