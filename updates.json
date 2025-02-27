@@ -1,5 +1,5 @@
 {
-    "version": "1.9.1",
-    "changelog": "- MIAMI: Fixes Sunset and Night Miami showdowns not working\n- CUBA: SHOULD fix spawns not working in Haven Island version of the map\n- CUBA: SHOULD no longer say Ambrose Island on spawn in text. Unable to verify before release.",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.1/Freelancer.Variations.1.9.1.zip"
+    "version": "1.9.2",
+    "changelog": "No JSON update required.\n- PARIS ETS: SHOWDOWN SUSPECT #7 SHOULD NO LONGER USE VIP LOCKDOWN INSTEAD OF ESCAPING\n- SPLITTER: MAIN STORY NO LONGER FREEZES AFTER CLONE REVEAL, REMOVES BAD SAFE IN GYM, FIXES WAITING ROOM SAFE CLUES, BACKGROUND STREETS NO LONGER INVISIBLE\n- CUBA: NPCS SHOULD BE UNABLE TO WALK THROUGH FENCES, FOR REAL THIS TIME\n- PASSENGER TRAIN: STANDALONE MOD UPDATES (NPCS NO LONGER HEAR THROUGH WALLS, ENFORCERS NOW CHASE YOU)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.2/Freelancer.Variations.1.9.2.zip"
 }
