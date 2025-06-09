@@ -1,5 +1,5 @@
 {
     "version": "1.9.4",
     "changelog": "JSON update required. Use variant picker website or grab JSON from Nexus\n- Holiday Hoarders: Removes HH NPCs (x3) and item presents, Moves Supplier somewhere quieter, Adds The Banker (With slight modifications)\n- Paris ETs: Upstairs supplier moved to area that doesn't have ET walking through it\n- Incorporates Haven Night lighting that was supposed to be included in 2023\n- Fixes Peacock plugin for version 8\n- Whittleton Night: ACTUALLY fixes the bad safe clue placements in Ghalen Voles’ house",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.3/Freelancer.Variations.1.9.4.zip"
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.4/Freelancer.Variations.1.9.4.zip"
 }
