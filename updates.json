@@ -1,5 +1,5 @@
 {
-    "version": "1.9.4",
-    "changelog": "JSON update required. Use variant picker website or grab JSON from Nexus\n- Holiday Hoarders: Removes HH NPCs (x3) and item presents, Moves Supplier somewhere quieter, Adds The Banker (With slight modifications)\n- Paris ETs: Upstairs supplier moved to area that doesn't have ET walking through it\n- Incorporates Haven Night lighting that was supposed to be included in 2023\n- Fixes Peacock plugin for version 8\n- Whittleton Night: ACTUALLY fixes the bad safe clue placements in Ghalen Voles’ house",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.4/Freelancer.Variations.1.9.4.zip"
+    "version": "1.9.5",
+    "changelog": "No JSON update required.\n- Paris: The Banker - Stash no longer clips through couch, removes pair of scissors that clips through couch (vanilla bug), applies Paris night improvements to variant, restores basement CCTV room guards, fixes one bad courier act, Paris staff and guards now enforce basement trespassing (vanilla bug)\n- Cuba: Suspects SHOULD no longer spawn outside of playable area",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.5/Freelancer.Variations.1.9.5.zip"
 }
