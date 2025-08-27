@@ -1,5 +1,6 @@
 {
-    "version": "1.9.5",
-    "changelog": "No JSON update required.\n- Paris: The Banker - Stash no longer clips through couch, removes pair of scissors that clips through couch (vanilla bug), applies Paris night improvements to variant, restores basement CCTV room guards, fixes one bad courier act, Paris staff and guards now enforce basement trespassing (vanilla bug)\n- Cuba: Suspects SHOULD no longer spawn outside of playable area",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.5/Freelancer.Variations.1.9.5.zip"
+    "version": "1.9.6",
+    "changelog": "No JSON update required.\n- Ambrose: Restructures to read same files as Random ToDs. Tweaks Midday to remove dark outside spots, make sun less bright, removes slight orange tinge to sky\n- Hantu Port: Accommodates small Hantu Port mod tweaks/fixes\n- Peacock Plugin now uses IO's new entitlements for Hawke’s Bay map slot as a precaution",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.6/Freelancer.Variations.1.9.6.zip"
 }
+
