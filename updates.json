@@ -1,7 +1,8 @@
 {
-    "version": "1.9.7",
-    "changelog": "SDK AND MISSION COMPANION ARE CURRENTLY NOT WORKING, ONLY PEACOCK PLUGIN WORKS FOR NOW.\nJSON UPDATE REQUIRED, GRAB FROM NEXUS FILES PAGE OR VARIANT PICKER WEBSITE \n- NEW VARIANT: Bangkok - The Infiltrator (Morning)\n- Bangkok: ETs (Midday) – Expanded target list\n- Yacht: Fixes early mission completion when you get a courier as target (untested), **updates to latest mod files that expand map**\n- Paris: The Banker - removes Banker's Rope to prevent possible case of game wiping inventory on exit if you do not own it\n- Whittleton: Night - Removes some leftover invisible collision boxes near muffin van\n- Hawke's Bay: Peacock Plugin - Suspect camera now appears in showdowns",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.7/Freelancer.Variations.1.9.7.zip"
+    "version": "1.9.8",
+    "changelog": "**HOTFIX TO WORK WITH LATEST SMF CHANGES**\nSDK AND MISSION COMPANION ARE CURRENTLY NOT WORKING, ONLY PEACOCK PLUGIN WORKS FOR NOW.\nJSON update required for The Infiltrator variant \n- NEW VARIANT: Bangkok - The Infiltrator (Morning)\n- Bangkok: ETs (Midday) – Expanded target list\n- Yacht: Fixes early mission completion when you get a courier as target (untested), **updates to latest mod files that expand map**\n- Paris: The Banker - removes Banker's Rope to prevent possible case of game wiping inventory on exit if you do not own it\n- Whittleton: Night - Removes some leftover invisible collision boxes near muffin van\n- Hawke's Bay: Peacock Plugin - Suspect camera now appears in showdowns",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.9.8/Freelancer.Variations.1.9.8.zip"
 }
+
 
 
