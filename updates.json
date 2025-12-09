@@ -1,8 +1,9 @@
 {
-    "version": "1.10.2",
-    "changelog": "JSON UPDATE REQUIRED FOR CORRECT SGAIL/HANTU ALERTED BRICK\n- Sapienza: The Icon – Removes Dino Bosco from showdowns to prevent suspects being killed by his robot, sets dead logic, tweaks some NPCs\n- Sapienza: Sunset ETs – Removes delivery and cyclist guys, fixes car changing during exit sequence, Adds 5x hard mode NPCs as targets\n- Sapienza: Night Meth Lab – Also removes delivery and cyclist guys\n- Romania: Fixes unscannable safe clue under chair\n- Paris: Day – A possible target starts his route instead of leaning on a balcony forever until you’re close, all NPC changes that apply to territory takedown now apply to showdown\n- Chongqing: Noodle Massacre - Adds latest Accent Overhaul files, including Bruce Lee voice\n- Sgail/Hantu: Re-instates Alerted brick. Should no longer have 'Camera Destroyed' when not alerted on Hantu/Sgail. Slight chance you'll see some floating cameras in Hantu in Alerted\n- SMF3 Beta: Should no longer cause crash on Hantu Port, removes ALL warnings by re-deploy",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.10.2/Freelancer.Variations.1.10.2.zip"
+    "version": "1.10.3",
+    "changelog": "No JSON update required.\n- Colorado: Night – Showdown data now loads\n- Colorado: The Vector – Showdown no longer crashes",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.10.3/Freelancer.Variations.1.10.3.zip"
 }
+
 
 
 
