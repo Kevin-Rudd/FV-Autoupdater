@@ -1,8 +1,9 @@
 {
-    "version": "1.10.3",
-    "changelog": "No JSON update required.\n- Colorado: Night – Showdown data now loads\n- Colorado: The Vector – Showdown no longer crashes",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.10.3/Freelancer.Variations.1.10.3.zip"
+    "version": "1.11.0",
+    "changelog": "No JSON update required.\n- Chongqing: Cloudy Day – Adds Gluttony food stalls and (modified) NPCs, changes some existing NPCs, adds some new NPCs to the streets (many from Noodle Massacre), un-loads most Lee Hong Derivation changes. ToD also tweaked (has not been pushed to Random ToDs yet)\n- Chongqing: Noodle Massacre – Fixes crash on loading, updates NPC navigation (Has not been pushed to standalone mod yet)\n- Chongqing: ETs – Lookout should no longer be untextured man, changes several NPCs\n- AHBOS: Fixes some floating waterbottles in showdowns\n- Hantu Port: Stash should no longer clip through locker in office\n- Haven: Night – Supply crate should no longer clip through a lamp on Bradley’s island\n- Peacock: Plugin should now support VR properly (untested)",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.11.0/Freelancer.Variations.1.11.0.zip"
 }
+
 
 
 
