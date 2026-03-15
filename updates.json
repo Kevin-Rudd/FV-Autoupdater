@@ -1,7 +1,7 @@
 {
-    "version": "1.12.0",
-    "changelog": "JSON UPDATE REQUIRED\n- Dartmoor: Patient Zero Requiem – New Variants (Outbreak and Pre-Outbreak. Only Pre-Outbreak is available for showdowns)\n- Chongqing: Noodle Massacre – Fixes crate conflicting with weapon stash in back of restaurant, replaces unbreakable toilet door with regular door\n- Sapienza: Landslide/The Author – There should no longer be broken lookouts\n- Colorado: The Vector – Disables bodyhiding volumes from sniper mode\n- Hantu: Warehouse supplier should no longer face wrong direction (Untested)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.12.0/Freelancer.Variations.1.12.0.zip"
+    "version": "1.12.1",
+    "changelog": "JSON UPDATE REQUIRED\n- Sapienza: Customised Alerted brick to work better for all variants\n- Dartmoor: PZ Requiem – Fixes top floor sentry denying all disguises, graveyard supplier should no longer be constantly ‘busy’",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.12.1/Freelancer.Variations.1.12.1.zip"
 }
 
 
