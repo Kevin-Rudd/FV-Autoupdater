@@ -1,7 +1,7 @@
 {
-    "version": "1.12.2",
-    "changelog": "JSON UPDATE REQUIRED TO REMOVE BUGGY HARBINGER SHOWDOWN\n- Dartmoor: PZ Requiem: Disables showdown by default due to wrongful failure status, removes crowd target (Maggie Loman) from outbreak takedown\n- Paris: Christmas Casino – Fixes missing sinks, fixes unscannable clue in VIP poker room\n- Chongqing: ETs – Convert remaining Block Guards to police, adds CCTV cop to Block\n- Whittleton Creek: Halloween – Adds new NPCs to target list\n- Whittleton Creek: ETs – Removes “Aldi Sinistras” from showdowns due to using Suspect models\n- Miami: The Undying – Removes Moses Lee as target due to bad Instinct display\n- Mendoza: ETs – Gives Bayswater new female guard animset",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.12.2/Freelancer.Variations.1.12.2.zip"
+    "version": "1.12.3",
+    "changelog": "Fixes deploy error when Whittleton Halloween is installed",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.12.3/Freelancer.Variations.1.12.3.zip"
 }
 
 
