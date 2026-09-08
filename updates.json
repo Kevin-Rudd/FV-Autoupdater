@@ -1,7 +1,7 @@
 {
-    "version": "1.12.5",
-    "changelog": "JSON Update required for Sgail slot Alerted Mode.\n- Mendoza: ETs – Adds 16x NPCs from Envy and makes other minor changes, guard from The Heartbreaker no longer stands inside Freelancer crate\n- Sgail/Hantu Port: Shared difficulty brick should no longer affect story mode\n- Sgail: Non-Vanilla – Removes more crap from funeral area, improves NPC logic in area\n- Chongqing: Alerted Mode – Confirming undercover guards should have regular weak pistol instead of assassin pistol\n- Cuba: Showdown – 2x smoking acts are now IN the map bounds\n- Bangkok: ETs – Cocktail Bar safe clue should no longer be hidden underneath tray\n- Mumbai: Non-vanilla – Rangan’s bodyguards should no longer search the map for him\n- Prologue: Life raft setpiece should no longer be broken when this mod is deployed\n- Romania: Day – Boxreflection cache to prevent bad lighting in some rooms (Thank you SDK team, and Luka)",
-    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.12.5/Freelancer.Variations.1.12.5.zip"
+    "version": "1.13.0",
+    "changelog": "JSON Update required for The Herbalist.\n- NEW VARIANT: Haven Island - The Herbalist (Sunset)\n- Haven Island: Night – Expands target list to include ~62 more NPCs, tweaks some NPCs dramas and removes more story-specific dialogue\n- The Herbalist Mission Story should no longer break when (Mandatory) Noodle Massacre addon is deployed (standalone mod will also need update if you have that, best to disable for now)\n- Miami: The Undying – Mark Faba can now defend himself with a pistol. He is gone in showdowns.\n- Hantu Port: Suspect no longer has badly placed bookworm act at satellite hut, there should be more assassin variety\n- Isle of Sgail: Fixes alerted brick causing crash when you don’t have Hantu Port deployed\n- Whittleton Creek: Halloween – Removed at request of original creator\n- Peacock: Update plugin for new version of Peacock",
+    "url": "https://github.com/Kevin-Rudd/FV-Autoupdater/releases/download/1.13.0/Freelancer.Variations.1.13.0.zip"
 }
 
 
